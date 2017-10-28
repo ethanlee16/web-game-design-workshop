@@ -140,17 +140,50 @@ function render() {
 
 ***
 
+## Inline Exercise 1
+
+Open **Basics of Phaser** CodePen from the _Links_ doc!
+
+***
+
+## Loading assets
+
+(such as images or audio)
+
+- Occurs in `preload` function!
+
+```javascript
+game.load.image('sprite-image', '/path/to/image');
+```
+
+![](/snorlax-sprite.png)
+
+***
+
 <img src="/slides-img/snorlax.gif" height="100" style="image-rendering: pixelated; border: none; background: none" />
 
-## Sprites
+## Adding sprites
 
 The "characters" or individually moving components of your game.
+
+- Occurs in `create` function!
 
 ```javascript
 game.add.sprite(50, 50, 'sprite-image');
 ```
 
-- Added in `create` function, modified in `update` function!
+***
+
+<img src="/coin.png" height="100" style="image-rendering: pixelated; border: none; background: none" />
+
+## Moving stuff around
+
+- Occurs in `update` function!
+
+```javascript
+sprite.velocity.x = 500;
+sprite.velocity.y = 500;
+```
 
 ---
 
@@ -164,9 +197,17 @@ Open up the link to **Piskel** on the _Links_ doc!
 
 ***
 
-## Creating a Map
+## Designing a Map
 
+Launch the **Tiled** app on your computer! (setup files in Web Game Design Drive)
 
+***
+
+## Connecting the Pieces
+
+Download the **platformer.zip** file from the Web Game Design Drive and open it up in your text editor of choice.
+
+**Note:** Download _Sublime Text (your platform)_ from the folder if you don't have a text editor you use for code!
 
 ---
 
