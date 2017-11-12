@@ -1,14 +1,14 @@
 <img src="/sprite.png" height="150" style="image-rendering: pixelated; border: none; background: none" />
 ## Web Game Design
 
-#### Hone &amp; Explore: October 28, 2017
+#### CodeDay Fall 2017 - 11/11/2017
 
 ---
 
 ## Hello, I'm Ethan!
-- First-year intended CS (sad)
-- InnoD Web Team
-- Tech trash
+- First-year student at UC Berkeley
+- Helped run CodeDay LA
+- I do lots of JavaScript 
 - Enjoys Korean food
 
 ---
