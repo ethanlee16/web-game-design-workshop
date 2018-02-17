@@ -1,18 +1,19 @@
-<img src="/sprite.png" height="150" style="image-rendering: pixelated; border: none; background: none" />
+<img src="/sprite.png" height="150" style="image-rendering: pixelated; border: none; background: none; box-shadow: none" />
 ## Web Game Design
 
-#### Hone &amp; Explore: October 28, 2017
+#### CodeDay Winter 2018 - 2/7/2018
 
 ---
 
 ## Hello, I'm Ethan!
-- First-year intended CS (sad)
-- InnoD Web Team
-- Tech trash
-- Enjoys Korean food
+- 🐻 First-year student at UC Berkeley 
+- 💻 Helped run CodeDay LA
+- 🛠 I do lots of JavaScript 
+- 😋 Enjoys Korean food
 
 ---
 
+# 👾
 # Game Design
 
 ***
@@ -29,7 +30,8 @@
 
 ---
 
-## _Web_ Game Design
+## 🌎
+##  _Web_ Game Design
 - Works for (almost) everyone with a browser
 - No native download required
   - All assets downloaded like a webpage
@@ -52,6 +54,7 @@
 
 ---
 
+## 📃
 ## Resources for this workshop
 Open the _Links_ document!
 <h4><a href="https://bitly.com/webgamedesign" style="text-transform: lowercase;">https://bitly.com/webgamedesign</a></h4>
@@ -108,6 +111,7 @@ game.clearRect(<x value>, <y value>, <width>, <height>);
 
 ---
 
+# 💫
 # Enter Phaser.js
 A JavaScript framework that abstracts away web technologies like HTML5 Canvas and WebGL
 
